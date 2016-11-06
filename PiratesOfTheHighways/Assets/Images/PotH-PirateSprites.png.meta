@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: de6cd0dab75796647b721886c03cf978
+timeCreated: 1458589989
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PotH-PirateSprites_0
+    21300002: PotH-PirateSprites_1
+    21300004: PotH-PirateSprites_2
+    21300006: PotH-PirateSprites_3
+    21300008: PotH-PirateSprites_4
+    21300010: PotH-PirateSprites_5
+    21300012: PotH-PirateSprites_6
+    21300014: PotH-PirateSprites_7
+    21300016: PotH-PirateSprites_8
+    21300018: PotH-PirateSprites_9
+    21300020: PotH-PirateSprites_10
+    21300022: PotH-PirateSprites_11
+    21300024: PotH-PirateSprites_12
+    21300026: PotH-PirateSprites_13
+    21300028: PotH-PirateSprites_14
+    21300030: PotH-PirateSprites_15
+    21300032: PotH-PirateSprites_16
+    21300034: PotH-PirateSprites_17
+    21300036: PotH-PirateSprites_18
+    21300038: PotH-PirateSprites_19
+    21300040: PotH-PirateSprites_20
+    21300042: PotH-PirateSprites_21
+    21300044: PotH-PirateSprites_22
+    21300046: PotH-PirateSprites_23
+    21300048: PotH-PirateSprites_24
+    21300050: PotH-PirateSprites_25
+    21300052: PotH-PirateSprites_26
+    21300054: PotH-PirateSprites_27
+    21300056: PotH-PirateSprites_28
+    21300058: PotH-PirateSprites_29
+    21300060: PotH-PirateSprites_30
+    21300062: PotH-PirateSprites_31
+    21300064: PotH-PirateSprites_32
+    21300066: PotH-PirateSprites_33
+    21300068: PotH-PirateSprites_34
+    21300070: PotH-PirateSprites_35
+    21300072: PotH-PirateSprites_36
+    21300074: PotH-PirateSprites_37
+    21300076: PotH-PirateSprites_38
+    21300078: PotH-PirateSprites_39
+    21300080: PotH-PirateSprites_40
+    21300082: PotH-PirateSprites_41
+    21300084: PotH-PirateSprites_42
+    21300086: PotH-PirateSprites_43
+    21300088: PotH-PirateSprites_44
+    21300090: PotH-PirateSprites_45
+    21300092: PotH-PirateSprites_46
+    21300094: PotH-PirateSprites_47
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 140
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PotH-PirateSprites_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 657
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 26.5}
+        - {x: -18.5, y: 23.5}
+        - {x: -18.5, y: -21.5}
+        - {x: -14.5, y: -26.5}
+        - {x: 11.5, y: -26.5}
+        - {x: 18.5, y: -17.5}
+        - {x: 18.5, y: 25.5}
+        - {x: 15.5, y: 26.5}
+    - name: PotH-PirateSprites_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 657
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 26.5}
+        - {x: -18.5, y: -26.5}
+        - {x: 18.5, y: -26.5}
+        - {x: 18.5, y: 26.5}
+    - name: PotH-PirateSprites_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 656
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 27}
+        - {x: -18.5, y: -25}
+        - {x: -12.5, y: -27}
+        - {x: 16.5, y: -27}
+        - {x: 18.5, y: -25}
+        - {x: 18.5, y: 20}
+        - {x: 15.5, y: 27}
+    - name: PotH-PirateSprites_3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 657
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 26.5}
+        - {x: -18.5, y: 23.5}
+        - {x: -18.5, y: -21.5}
+        - {x: -14.5, y: -26.5}
+        - {x: 11.5, y: -26.5}
+        - {x: 18.5, y: -17.5}
+        - {x: 18.5, y: 25.5}
+        - {x: 15.5, y: 26.5}
+    - name: PotH-PirateSprites_4
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 657
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 26.5}
+        - {x: -18.5, y: -26.5}
+        - {x: 14.5, y: -26.5}
+        - {x: 18.5, y: -15.5}
+        - {x: 18.5, y: 26.5}
+    - name: PotH-PirateSprites_5
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 656
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 27}
+        - {x: -18.5, y: -25}
+        - {x: -12.5, y: -27}
+        - {x: 16.5, y: -27}
+        - {x: 18.5, y: -25}
+        - {x: 18.5, y: 20}
+        - {x: 15.5, y: 27}
+    - name: PotH-PirateSprites_6
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 657
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 26.5}
+        - {x: -18.5, y: 23.5}
+        - {x: -18.5, y: -21.5}
+        - {x: -14.5, y: -26.5}
+        - {x: 11.5, y: -26.5}
+        - {x: 18.5, y: -17.5}
+        - {x: 18.5, y: 25.5}
+        - {x: 15.5, y: 26.5}
+    - name: PotH-PirateSprites_7
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 657
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 26.5}
+        - {x: -18.5, y: -26.5}
+        - {x: 14.5, y: -26.5}
+        - {x: 18.5, y: -15.5}
+        - {x: 18.5, y: 26.5}
+    - name: PotH-PirateSprites_8
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 656
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 27}
+        - {x: -18.5, y: -25}
+        - {x: -12.5, y: -27}
+        - {x: 16.5, y: -27}
+        - {x: 18.5, y: -25}
+        - {x: 18.5, y: 20}
+        - {x: 15.5, y: 27}
+    - name: PotH-PirateSprites_9
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 657
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 26.5}
+        - {x: -18.5, y: 23.5}
+        - {x: -18.5, y: -17.5}
+        - {x: -10.5, y: -26.5}
+        - {x: 11.5, y: -26.5}
+        - {x: 18.5, y: -17.5}
+        - {x: 18.5, y: 26.5}
+    - name: PotH-PirateSprites_10
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 657
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 26.5}
+        - {x: -18.5, y: -26.5}
+        - {x: 14.5, y: -26.5}
+        - {x: 18.5, y: -15.5}
+        - {x: 18.5, y: 26.5}
+    - name: PotH-PirateSprites_11
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 656
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 27}
+        - {x: -18.5, y: -25}
+        - {x: -12.5, y: -27}
+        - {x: 16.5, y: -27}
+        - {x: 18.5, y: -25}
+        - {x: 18.5, y: 20}
+        - {x: 15.5, y: 27}
+    - name: PotH-PirateSprites_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 593
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PotH-PirateSprites_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 592
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PotH-PirateSprites_14
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 593
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: -24.5}
+        - {x: 16.5, y: -24.5}
+        - {x: 16.5, y: 24.5}
+        - {x: -16.5, y: 24.5}
+        - {x: -16.5, y: -12.5}
+    - name: PotH-PirateSprites_15
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 593
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PotH-PirateSprites_16
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 592
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PotH-PirateSprites_17
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 593
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 24.5}
+        - {x: -16.5, y: -12.5}
+        - {x: -8.5, y: -24.5}
+        - {x: 16.5, y: -24.5}
+        - {x: 16.5, y: 21.5}
+        - {x: 14.5, y: 24.5}
+    - name: PotH-PirateSprites_18
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 593
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PotH-PirateSprites_19
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 592
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PotH-PirateSprites_20
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 593
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 24.5}
+        - {x: -14.5, y: 21.5}
+        - {x: -16.5, y: 13.5}
+        - {x: -16.5, y: -12.5}
+        - {x: -8.5, y: -24.5}
+        - {x: 15.5, y: -24.5}
+        - {x: 16.5, y: -23.5}
+        - {x: 16.5, y: 14.5}
+        - {x: 8.5, y: 24.5}
+    - name: PotH-PirateSprites_21
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 593
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PotH-PirateSprites_22
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 592
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PotH-PirateSprites_23
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 593
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 24.5}
+        - {x: -16.5, y: -19.5}
+        - {x: -14.5, y: -24.5}
+        - {x: 16.5, y: -24.5}
+        - {x: 16.5, y: 21.5}
+        - {x: 13.5, y: 24.5}
+    - name: PotH-PirateSprites_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 537
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: -0.5}
+        - {x: 16.5, y: 1.5}
+        - {x: 16.5, y: 24.5}
+        - {x: -12.5, y: 24.5}
+        - {x: -16.5, y: 23.5}
+        - {x: -16.5, y: -23.5}
+        - {x: -15.5, y: -24.5}
+        - {x: 10.5, y: -24.5}
+        - {x: 16.5, y: -13.5}
+        - {x: 16.5, y: -0.5}
+    - name: PotH-PirateSprites_25
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 536
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PotH-PirateSprites_26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 537
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 24.5}
+        - {x: -16, y: 19.5}
+        - {x: -16, y: -24.5}
+        - {x: 10, y: -24.5}
+        - {x: 16, y: -11.5}
+        - {x: 16, y: 24.5}
+    - name: PotH-PirateSprites_27
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 537
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: -0.5}
+        - {x: 16.5, y: 1.5}
+        - {x: 16.5, y: 24.5}
+        - {x: -12.5, y: 24.5}
+        - {x: -16.5, y: 23.5}
+        - {x: -16.5, y: -23.5}
+        - {x: -15.5, y: -24.5}
+        - {x: 10.5, y: -24.5}
+        - {x: 16.5, y: -13.5}
+        - {x: 16.5, y: -0.5}
+    - name: PotH-PirateSprites_28
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 536
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PotH-PirateSprites_29
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 537
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 24.5}
+        - {x: -16, y: 19.5}
+        - {x: -16, y: -24.5}
+        - {x: 10, y: -24.5}
+        - {x: 16, y: -11.5}
+        - {x: 16, y: 24.5}
+    - name: PotH-PirateSprites_30
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 537
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: -0.5}
+        - {x: 16.5, y: 1.5}
+        - {x: 16.5, y: 24.5}
+        - {x: -12.5, y: 24.5}
+        - {x: -16.5, y: 23.5}
+        - {x: -16.5, y: -23.5}
+        - {x: -15.5, y: -24.5}
+        - {x: 10.5, y: -24.5}
+        - {x: 16.5, y: -13.5}
+        - {x: 16.5, y: -0.5}
+    - name: PotH-PirateSprites_31
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 536
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PotH-PirateSprites_32
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 537
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 24.5}
+        - {x: -16, y: 19.5}
+        - {x: -16, y: -24.5}
+        - {x: 10, y: -24.5}
+        - {x: 16, y: -11.5}
+        - {x: 16, y: 24.5}
+    - name: PotH-PirateSprites_33
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 537
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: -0.5}
+        - {x: 16.5, y: 1.5}
+        - {x: 16.5, y: 24.5}
+        - {x: -12.5, y: 24.5}
+        - {x: -16.5, y: 23.5}
+        - {x: -16.5, y: -23.5}
+        - {x: -15.5, y: -24.5}
+        - {x: 10.5, y: -24.5}
+        - {x: 16.5, y: -13.5}
+        - {x: 16.5, y: -0.5}
+    - name: PotH-PirateSprites_34
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 536
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PotH-PirateSprites_35
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 537
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 24.5}
+        - {x: -16, y: 19.5}
+        - {x: -16, y: -24.5}
+        - {x: 10, y: -24.5}
+        - {x: 16, y: -11.5}
+        - {x: 16, y: 24.5}
+    - name: PotH-PirateSprites_36
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 466
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 27.5}
+        - {x: -16, y: -27.5}
+        - {x: 13, y: -27.5}
+        - {x: 16, y: -19.5}
+        - {x: 16, y: 27.5}
+    - name: PotH-PirateSprites_37
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 466
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 27.5}
+        - {x: -16, y: 24.5}
+        - {x: -16, y: -27.5}
+        - {x: 16, y: -27.5}
+        - {x: 16, y: 27.5}
+    - name: PotH-PirateSprites_38
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 466
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 27.5}
+        - {x: -16, y: -15.5}
+        - {x: -10, y: -27.5}
+        - {x: 10, y: -27.5}
+        - {x: 16, y: -15.5}
+        - {x: 16, y: 22.5}
+        - {x: 12, y: 27.5}
+    - name: PotH-PirateSprites_39
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 466
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 27.5}
+        - {x: -16, y: -27.5}
+        - {x: 13, y: -27.5}
+        - {x: 16, y: -19.5}
+        - {x: 16, y: 27.5}
+    - name: PotH-PirateSprites_40
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 466
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 27.5}
+        - {x: -16, y: 24.5}
+        - {x: -16, y: -27.5}
+        - {x: 16, y: -27.5}
+        - {x: 16, y: 27.5}
+    - name: PotH-PirateSprites_41
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 466
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 27.5}
+        - {x: -16, y: -27.5}
+        - {x: 13, y: -27.5}
+        - {x: 16, y: -16.5}
+        - {x: 16, y: 22.5}
+        - {x: 14, y: 27.5}
+    - name: PotH-PirateSprites_42
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 466
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 27.5}
+        - {x: -16, y: -27.5}
+        - {x: 13, y: -27.5}
+        - {x: 16, y: -19.5}
+        - {x: 16, y: 27.5}
+    - name: PotH-PirateSprites_43
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 466
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 27.5}
+        - {x: -16, y: 24.5}
+        - {x: -16, y: -27.5}
+        - {x: 16, y: -27.5}
+        - {x: 16, y: 27.5}
+    - name: PotH-PirateSprites_44
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 466
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 27.5}
+        - {x: -16, y: 23.5}
+        - {x: -16, y: -14.5}
+        - {x: -10, y: -27.5}
+        - {x: 11, y: -27.5}
+        - {x: 16, y: -21.5}
+        - {x: 16, y: 24.5}
+        - {x: 15, y: 27.5}
+    - name: PotH-PirateSprites_45
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 466
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 27.5}
+        - {x: -16, y: -23.5}
+        - {x: -11, y: -27.5}
+        - {x: 14, y: -27.5}
+        - {x: 16, y: -18.5}
+        - {x: 16, y: 27.5}
+    - name: PotH-PirateSprites_46
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 466
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 27.5}
+        - {x: -16, y: 24.5}
+        - {x: -16, y: -27.5}
+        - {x: 16, y: -27.5}
+        - {x: 16, y: 27.5}
+    - name: PotH-PirateSprites_47
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 466
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 27.5}
+        - {x: -16, y: 23.5}
+        - {x: -16, y: -14.5}
+        - {x: -10, y: -27.5}
+        - {x: 11, y: -27.5}
+        - {x: 16, y: -21.5}
+        - {x: 16, y: 24.5}
+        - {x: 15, y: 27.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

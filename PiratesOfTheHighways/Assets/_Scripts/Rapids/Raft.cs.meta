@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 2c07282dc9a3e4f93bb634e3fcac4ad0
+timeCreated: 1459280897
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - otherRaftScript: {instanceID: 0}
+  - leftPaddle: {instanceID: 0}
+  - rightPaddle: {instanceID: 0}
+  - raft: {instanceID: 0}
+  - finishText: {instanceID: 0}
+  - leftPrompt: {instanceID: 0}
+  - rightPrompt: {instanceID: 0}
+  - powerImage1: {instanceID: 0}
+  - powerImage2: {instanceID: 0}
+  - cannonSprite: {fileID: 21300000, guid: 58b0a1e7eb15dd94d9480ab618e5e451, type: 3}
+  - grappleSprite: {fileID: 21300000, guid: d876963937bdd8a49a10c0f3df007043, type: 3}
+  - cannon1: {instanceID: 0}
+  - cannon2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

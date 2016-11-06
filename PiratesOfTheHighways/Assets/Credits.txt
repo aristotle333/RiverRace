@@ -1,0 +1,10 @@
+﻿French fries image from https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/French_fries_juliane_kr_r.svg/2000px-French_fries_juliane_kr_r.svg.png
+Milkshake image from http://www.3leaves.org/mm2016/class_images/milkshake-shakeshack.jpg
+Burger image from http://opengameart.org/content/a-cheeseburger
+Chicken nuggets image from http://clipartoons.com/wp-content/uploads/2016/01/chicken-nuggets-clipart-1.png
+
+Arrows from http://area51.whatisreal.com/Game%20World/Resources/ArrowSpriteSheet.png and http://41.media.tumblr.com/a52051cfb0f007b8b8989e9cba470903/tumblr_n19koqo7fa1r3nfdfo1_400.png
+Right and Wrong commit from https://www.youtube.com/watch?v=worclOeTALw
+
+prison wall texture from http://www.yticamps.com/jhowell/Gabe%20Owings%20(Criminal%20Scum)/Sprites/handpainted_wall2.jpg
+rope image from http://answers.unity3d.com/storage/temp/31600-rope.png
