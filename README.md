@@ -17,4 +17,4 @@ To play this game 4 xbox controllers are required to be connected to the compute
 The executable can be found by downloading the zip file [here](RiverRaceExecutable.zip), unzip it and run the executable inside the RiverRaceExecutable folder.
 
 ### Notes
-Credits for the assets used can be found [here](http://www-personal.umich.edu/~leventid/Schooled/ASSET-CREDIT.html)
+Credits for the assets used can be found [here](CREDITS.md)
